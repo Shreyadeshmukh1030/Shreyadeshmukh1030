@@ -163,7 +163,7 @@ Medical imaging system built with deep learning for disease prediction, with exp
 </td>
 <td width="55%" valign="top">
 
-### 😊 AI Emotional Feedback Coach
+### NeuroLearn AI Companion
 **Emotion Recognition & Wellness Platform**
 
 AI-powered emotion recognition system that turns facial/behavioral signals into actionable feedback.
@@ -185,18 +185,7 @@ AI-powered emotion recognition system that turns facial/behavioral signals into 
 </td>
 <td width="55%" valign="top">
 
-### 🏦 BlueWave Bank
-**Modern Core Banking System UI**
 
-A clean, modular front-end for a core banking system — customer management, transactions and reporting in one interface.
-
-`HTML` `CSS` `JavaScript`
-
-✔ Customer module &nbsp;&nbsp; ✔ Transactions &nbsp;&nbsp; ✔ Dashboard &nbsp;&nbsp; ✔ Reports &nbsp;&nbsp; ✔ Login system
-
-<img src="https://img.shields.io/badge/Frontend-Project-FF9100?style=for-the-badge"/>
-
-</td>
 </tr>
 
 <tr><td colspan="2"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"></td></tr>
