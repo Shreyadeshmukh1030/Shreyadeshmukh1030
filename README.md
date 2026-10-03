@@ -400,7 +400,7 @@ jobs:
 
 **Open to collaborating on:** 🤖 Artificial Intelligence &nbsp;•&nbsp; 🧠 Machine Learning &nbsp;•&nbsp; 👁 Computer Vision &nbsp;•&nbsp; 🌐 Full-Stack AI Apps &nbsp;•&nbsp; 🚀 Open Source
 
-📧 **shreyadeshmukh8999@gmail.com** &nbsp;|&nbsp; 💼 **LinkedIn: Shreya Deshmukh** &nbsp;|&nbsp; 🎥 **YouTube: @shreyadeshmukh1539**
+ 💼 **LinkedIn: Shreya Deshmukh** &nbsp;|&nbsp; 🎥 **YouTube: @shreyadeshmukh1539**
 
 ⭐ If you like my work, consider starring my repositories!
 
